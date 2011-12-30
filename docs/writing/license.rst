@@ -57,6 +57,17 @@ distinguish between source and compiled copies.
 Apache
 ------
 
+The `Apache License 2.0 <http://www.opensource.org/licenses/Apache-2.0>`_
+grants a perpetual, royalty-free copyright and patent license to licensees.
+It allows licensees to create and distribute derivitive works so long as the
+derivitive works retain the original licensing terms, copyright, patent and
+attribution notices; modified files are prominently noted as having been
+modified from the original forms; and that a "NOTICES" file, if present in
+the original, be present in the derivitive work, whether in source code or
+documentation. Any contributions made back to the original project are
+assumed to be under the terms of the license. The Apache License does not
+grant trademark rights to licensees. Licensees
+
 
 Restrictive
 :::::::::::
