@@ -8,9 +8,9 @@ contributors, of the source code, and "restrictive" licenses, which are
 designed to foster community by requiring contributions back to the
 originating authors and maintainers of projects.
 
-The goal of this section is to explain each of the listed licenses in plain
-English, and to avoid philosophical debates about the value of particular
-provisions of licenses.
+The goal of this section is to briefly explain each of the listed licenses
+in plain English, and to avoid philosophical debates about the value of
+particular provisions of licenses.
 
 
 Permissive
